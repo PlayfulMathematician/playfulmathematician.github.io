@@ -17,3 +17,8 @@ baseURL = "https://playfulmathematician.com/"
 languageCode = "en-us"
 title = "Playful Mathematician"
 theme = "ananke"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
