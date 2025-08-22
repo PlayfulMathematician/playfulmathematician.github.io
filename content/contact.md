@@ -5,7 +5,7 @@ menu:
   main:
     identifier: contact
     name: "Contact"
-    weight: 20
+    weight: 4
 ---
 
 You can reach me at:
