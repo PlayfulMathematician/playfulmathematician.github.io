@@ -4,9 +4,9 @@ draft = false
 title = 'VZome Models'
 +++
 
-VZome is really cool. I will add models soon.
+Hello, this polyhedra is known as a rhombihedron. It contains 5 cubes, each marked by color. It has dodecahedral symmetry.
 
 <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
 <vzome-viewer style="width: 100%; height: 60dvh" src="../../models/rhom.vZome">
-    <!-- Insert image>
+<img src="../models/rhom.png" alt="Rhom model" style="width: 100%; height: auto;">
   </vzome-viewer>
